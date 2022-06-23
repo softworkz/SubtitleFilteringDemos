@@ -1,3 +1,5 @@
+**NOTE:** Feel free to create [issues](https://github.com/softworkz/SubtitleFilteringDemos/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc) in case of any questions!
+
 # Subtitle Filtering Demo 1
 ## Text-Manipulation with Bitmap Subtitles
 

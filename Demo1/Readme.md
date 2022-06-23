@@ -21,9 +21,9 @@
 
 https://user-images.githubusercontent.com/4985349/175379802-d7cc48cf-7615-4e73-a075-576d75f4c2cc.mp4
 
+### Full Quality Output
 
-
-Download full video: [Demo1_ComparePlayback.mp4](Demo1_ComparePlayback.mp4)
+Download the full quality video: [Demo1_ComparePlayback.mp4](https://github.com/softworkz/SubtitleFilteringDemos/releases/download/Demo1/Demo1_ComparePlayback.mp4)
 
 ## Processing:
 

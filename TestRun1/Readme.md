@@ -5,7 +5,7 @@
 
 In this section, I'm sharing a (two-part) video, documenting my internal subtitle testing procedures.
 
-The left side shows the individuual test executions. Bold text indicates differences from the previous item.
+The left side shows the individual test executions. Bold text indicates differences from the previous item.
 
 Please contact me priavately for more detail information.
 

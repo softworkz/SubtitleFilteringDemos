@@ -7,7 +7,7 @@ In this section, I'm sharing a (two-part) video, documenting my internal subtitl
 
 The left side shows the individual test executions. Bold text indicates differences from the previous item.
 
-Please contact me priavately for more detail information.
+Please contact me privately for logs and commands
 
 ## Video Part 1
 
